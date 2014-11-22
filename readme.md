@@ -1,5 +1,11 @@
 # Terminal Things #
+## Peerflix ##
+### Install ###
+<pre>npm install -g peerflix</pre>
 
+### Play ###
+<pre>peerflix "URL do link Magnético" --vlc
+</pre>
 ## SSH ##
 
 ### Para remover a Chave do SSH, troque hostname pelo ip do servidor e tudo ok. ###
